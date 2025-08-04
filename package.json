@@ -21,11 +21,15 @@
     "sdk",
     "unified"
   ],
-  "author": "Your Name",
+  "author": "Sidharth e",
   "license": "MIT",
   "dependencies": {
     "@google/genai": "^0.2.0",
     "openai": "^4.28.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidharth-e/unify-llm.git"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
